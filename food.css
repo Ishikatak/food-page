@@ -1,0 +1,42 @@
+.food{
+    background-image: url("https://img.freepik.com/free-vector/italian-cuisine-set_1284-24198.jpg");
+     height: 600px;
+     width: 600px;
+     margin-left: 300px;
+}
+
+header{
+     margin-left: -220px;
+    text-align:center;
+     font-size: larger;
+}
+   .box{
+
+       background-color:  coral;
+        margin-bottom: 10px;
+        margin-left: 300px;
+        margin-right: 590px;
+        padding-right:10px ;
+        padding-left: 10px;
+   }
+
+   .capital{
+         font-style: italic;
+         color: black ;
+         font-weight: bold;
+   }
+   button{
+          background-color:white ;
+           color: black;
+            margin-top: 0px;
+            margin-left: 10px;
+            margin-right: 100px;
+            margin-bottom:2px ;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border-radius: 10px;
+
+   }
+  
